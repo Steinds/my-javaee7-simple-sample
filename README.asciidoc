@@ -3,6 +3,15 @@ A simple Java EE 7 Sample !
 
 This is a trivial Java EE 7 sample.
 
+                             ___
+                     /======/
+            ____    //      \___       ,/
+             | \\  //           :,   ./
+     |_______|__|_//            ;:; /
+    _L_____________\o           ;;;/
+____(CCCCCCCCCCCCCC)____________-/___________________
+
+
 . Download WildFly 8.2 from
   http://download.jboss.org/wildfly/8.2.0.Final/wildfly-8.2.0.Final.zip
   and unzip.
